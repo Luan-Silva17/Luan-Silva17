@@ -8,7 +8,7 @@ Engenheiro de Computação | Desenvolvedor Back-end Java | Especialista em autom
 
 <br>
 
-<a href="[https://www.linkedin.com/in/luan-quirino](https://www.linkedin.com/in/luan-silva-9a5ab3231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://www.linkedin.com/in/luan-silva" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -81,7 +81,7 @@ Localização: Mogi Guaçu – SP
 />
 
 <img width="41%" height="195px"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanquiri&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Silva17&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
 />
 
 </div>
@@ -89,7 +89,7 @@ Localização: Mogi Guaçu – SP
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanquiri&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Luan-Silva17&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
