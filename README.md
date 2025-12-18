@@ -8,7 +8,7 @@ Engenheiro de Computação | Desenvolvedor Back-end Java | Especialista em autom
 
 <br>
 
-<a href="https://www.linkedin.com/in/luan-silva" target="_blank">
+<a href="https://www.linkedin.com/in/luan-silva/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
